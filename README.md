@@ -5,7 +5,7 @@
 # Aлгоритм разделения компонента Card
 
 1. Разделение блока Card на основные большие компонеты;
-- TextContent;
+- TextContent - вукер;
 - Preview;
 - Menu;
 - Controls;
